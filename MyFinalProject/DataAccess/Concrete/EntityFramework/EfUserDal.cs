@@ -1,0 +1,29 @@
+﻿using Core.DataAccess.EntityFramework;
+using Core.Entities.Concrete;
+using DataAccess.Abstract;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DataAccess.Concrete.EntityFramework
+{
+    public class EfUserDal : EfEntityRepositoryBase<User, NorthwindContext>, IUserDal
+    {
+        //burada napıyoz? Kullanıcıya ait claimleri getirir.
+        public List<OperationClaim> GetClaims(User user)
+        {
+            using (var context = new NorthwindContext())
+            {
+                var result = from operationClaim in context.OperationClaims // burda naptık? OperationClaim tablosu ile UserOperationClaim tablosunu join ettik.
+                             join userOperationClaim in context.UserOperationClaims // burda naptık? OperationClaim tablosu ile UserOperationClaim tablosunu join ettik.
+                                 on operationClaim.Id equals userOperationClaim.OperationClaimId 
+                             where userOperationClaim.UserId == user.Id 
+                             select new OperationClaim { Id = operationClaim.Id, Name = operationClaim.Name };
+                return result.ToList();
+
+            }
+        }
+    }
+}

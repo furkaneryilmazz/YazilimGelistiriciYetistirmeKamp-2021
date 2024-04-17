@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8B462C-F4B3-4966-9ED8-EDBF410C9BAC}|Business\\Business.csproj|c:\\users\\monster\\source\\repos\\myfinalproject\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8B462C-F4B3-4966-9ED8-EDBF410C9BAC}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8B462C-F4B3-4966-9ED8-EDBF410C9BAC}|Business\\Business.csproj|c:\\users\\monster\\source\\repos\\myfinalproject\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8B462C-F4B3-4966-9ED8-EDBF410C9BAC}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|c:\\users\\monster\\source\\repos\\myfinalproject\\core\\aspects\\autofac\\caching\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\caching\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|c:\\users\\monster\\source\\repos\\myfinalproject\\core\\aspects\\autofac\\caching\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\caching\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|c:\\users\\monster\\source\\repos\\myfinalproject\\core\\utilites\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|solutionrelative:core\\utilites\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|c:\\users\\monster\\source\\repos\\myfinalproject\\core\\crosscuttingconcerns\\caching\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\caching\\icachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|c:\\users\\monster\\source\\repos\\myfinalproject\\core\\crosscuttingconcerns\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|c:\\users\\monster\\source\\repos\\myfinalproject\\core\\dependencyresolvers\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F55D983-F5BE-4A9D-956A-7C1A9645BB31}|Core\\Core.csproj|solutionrelative:core\\dependencyresolvers\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:19:09.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CacheRemoveAspect.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "ToolTip": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Caching\\CacheRemoveAspect.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:11:24.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MethodInterception.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\Utilites\\Interceptors\\MethodInterception.cs",
+              "RelativeDocumentMoniker": "Core\\Utilites\\Interceptors\\MethodInterception.cs",
+              "ToolTip": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\Utilites\\Interceptors\\MethodInterception.cs",
+              "RelativeToolTip": "Core\\Utilites\\Interceptors\\MethodInterception.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:30:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CacheAspect.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "ToolTip": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Caching\\CacheAspect.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:26:45.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICacheManager.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "ToolTip": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Caching\\ICacheManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:48:59.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemoryCacheManager.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ToolTip": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:47:07.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoreModule.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\DependencyResolvers\\CoreModule.cs",
+              "RelativeDocumentMoniker": "Core\\DependencyResolvers\\CoreModule.cs",
+              "ToolTip": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Core\\DependencyResolvers\\CoreModule.cs",
+              "RelativeToolTip": "Core\\DependencyResolvers\\CoreModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:46:55.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\monster\\source\\repos\\MyFinalProject\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAJoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:26:32.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
