@@ -1,0 +1,1 @@
+Engin Demiroğ hocamızın 2021 yılında gerçekleştirdiği Yazılım Geliştirici Yetiştirme Kampı'nın backend kodları burada yer almaktadır. Kodları detaylı açıklamalarıyla birlikte incelemek isteyenler göz atabilirler.
